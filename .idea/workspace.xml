@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26becb77-c156-40a9-9d45-38129600edc4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/OpenIrrigation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OpenIrrigation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Archive/drip1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/drip1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Archive/drip2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/drip2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Archive/drip3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/drip3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Archive/drip4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/drip4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Archive/irrigationmain.py" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/irrigationmain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Archive/irrigationneeded.py" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/irrigationneeded.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Archive/irrigationneeded_sprinkler3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/irrigationneeded_sprinkler3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Archive/irrigationneeded_sprinkler4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/irrigationneeded_sprinkler4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Archive/plant.py" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/plant.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Archive/runonce.py" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/runonce.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Archive/sprinkler2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/sprinkler2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Archive/sprinkler3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/sprinkler3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Archive/sprinkler4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/sprinkler4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/connectioncheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/connectioncheck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form.py" beforeDir="false" afterPath="$PROJECT_DIR$/form.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkcheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/networkcheck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networksetup.py" beforeDir="false" afterPath="$PROJECT_DIR$/networksetup.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="OpenIrrigation" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>'irrigation.db'</find>
+      <find>rainforecast</find>
+      <find>except KeyError:</find>
+      <find>?q=</find>
+      <find>irrigationty</find>
+      <find>#TODO</find>
+      <find># TODO</find>
+      <find>TODO</find>
+      <find>irrigation_check.txt</find>
+      <find>irrigation</find>
+      <find>todo</find>
+      <find>last2weeks</find>
+      <find>TotalWaterPast2Weeks15</find>
+      <find>TotalWaterPast2Weeks1</find>
+      <find>RainValve1</find>
+      <find>RainValve11</find>
+      <find>totalrainfall</find>
+      <find>avg</find>
+      <find>max</find>
+      <find>'0'</find>
+      <find>avgtemp</find>
+      <find>'None'</find>
+      <find>irrigationoutput</find>
+      <find>IrrigationEfficiency</find>
+      <find>MaxIrrigationTime</find>
+      <find>rainfalltoday</find>
+      <find>time</find>
+      <find>irrigationtimer</find>
+      <find>cronjobController</find>
+      <find>for</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>statusvalve</replace>
+      <replace>&lt;option name=ON value=1&gt;</replace>
+      <replace>irrigationmain</replace>
+      <replace>python /opt/OpenIrrigation/</replace>
+      <replace>'python /opt(OpenIrrigation/irrigationmain.py'</replace>
+      <replace>'/home/pi/.OpenIrrigation/gardendata.txt'</replace>
+      <replace>156</replace>
+      <replace>#FAFBFB</replace>
+      <replace>76</replace>
+      <replace>5</replace>
+      <replace>6</replace>
+      <replace>7</replace>
+      <replace>8</replace>
+      <replace>9</replace>
+      <replace>10</replace>
+      <replace>11</replace>
+      <replace>12</replace>
+      <replace>13</replace>
+      <replace>14</replace>
+      <replace>15</replace>
+      <replace>16</replace>
+      <replace>out</replace>
+      <replace>openweather</replace>
+      <replace>'/opt/OpenIrrigation/irrigation.db'</replace>
+      <replace>RainForecast</replace>
+      <replace>?id=</replace>
+      <replace>min</replace>
+      <replace>value=0</replace>
+      <replace>'None'</replace>
+      <replace>'0'</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/dbnavigator.xml" />
+        <option value="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T7pGW7xIIsX9DBM209KFlR35Ux" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/../OpenLogbook" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Archive/Experimental" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26becb77-c156-40a9-9d45-38129600edc4" name="Default Changelist" comment="" />
+      <created>1549298386800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549298386800</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added initial (empty) logbook file">
+      <created>1549353265299</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549353265299</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adjusted minimum irrigation value when average daily temperature is high">
+      <created>1561891153507</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561891153507</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added a 5 minute wlan connection and wlan connection check when running drip and sprinkler script">
+      <created>1564482756273</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1564482756273</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added initial (empty) logbook file" />
+    <MESSAGE value="adjusted minimum irrigation value when average daily temperature is high" />
+    <MESSAGE value="added a 5 minute wlan connection and wlan connection check when running drip and sprinkler script" />
+    <option name="LAST_COMMIT_MESSAGE" value="added a 5 minute wlan connection and wlan connection check when running drip and sprinkler script" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/raindatapastday.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
